@@ -1,0 +1,4 @@
+email,firstName,lastName,courseId,grade,marks
+sam@abc.com,Samel,Carton,DATA200,C,66
+jane@abc.com,Jane,Doe,DATA200,B,87
+alex@abc.com,Alex,Smith,CS101,A,91
